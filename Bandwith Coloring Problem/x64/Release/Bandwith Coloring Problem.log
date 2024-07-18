@@ -1,0 +1,8 @@
+﻿  UETT.cpp
+C:\Users\lucian.isac\source\repos\Bandwith Coloring Problem\Bandwith Coloring Problem\UETT.cpp(34,36): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  0 of 3015 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Bandwith Coloring Problem.vcxproj -> C:\Users\lucian.isac\source\repos\Bandwith Coloring Problem\x64\Release\Bandwith Coloring Problem.exe
