@@ -1,0 +1,82 @@
+Process For Instance = 0
+1 1 1 20 19 19 14 3 8 1 12 20 16 10 12 17 8 7 10 17 
+Success ---> Execution Time: 0.162482 seconds
+
+Process For Instance = 1
+1 9 1 20 1 8 14 1 8 11 12 16 4 20 12 6 10 15 20 17 
+Success ---> Execution Time: 0.126283 seconds
+
+Process For Instance = 2
+1 5 1 20 20 18 14 1 8 11 12 19 12 2 11 19 16 11 12 17 
+Success ---> Execution Time: 0.164332 seconds
+
+Process For Instance = 3
+1 2 1 20 20 20 14 1 8 2 12 16 1 11 12 16 3 7 14 17 
+Success ---> Execution Time: 0.274256 seconds
+
+Process For Instance = 4
+1 4 1 20 1 20 14 1 8 9 12 19 1 20 12 17 13 7 13 17 
+Success ---> Execution Time: 0.198042 seconds
+
+Process For Instance = 5
+1 7 1 20 2 20 14 1 8 20 12 16 16 11 12 17 3 7 14 17 
+Success ---> Execution Time: 0.213277 seconds
+
+Process For Instance = 6
+1 3 20 1 20 8 7 20 13 1 9 4 14 10 9 9 3 16 15 4 
+Success ---> Execution Time: 0.166705 seconds
+
+Process For Instance = 7
+1 1 1 20 20 16 14 1 8 2 12 6 1 11 12 14 3 7 10 17 
+Success ---> Execution Time: 0.184888 seconds
+
+Process For Instance = 8
+1 10 20 1 1 11 7 20 13 9 9 14 15 18 10 6 10 19 20 4 
+Success ---> Execution Time: 0.163485 seconds
+
+Process For Instance = 9
+1 17 1 20 20 14 14 1 8 12 12 4 6 2 11 16 10 7 8 17 
+Success ---> Execution Time: 0.228154 seconds
+
+Process For Instance = 10
+1 5 20 1 11 9 7 20 13 19 9 5 1 2 10 11 19 19 20 4 
+Success ---> Execution Time: 0.191372 seconds
+
+Process For Instance = 11
+1 12 20 1 3 14 7 19 13 11 9 16 8 20 10 18 3 7 20 4 
+Success ---> Execution Time: 0.242464 seconds
+
+Process For Instance = 12
+1 1 1 20 9 18 14 1 8 1 12 19 11 18 12 16 3 7 10 17 
+Success ---> Execution Time: 0.237051 seconds
+
+Process For Instance = 13
+1 2 1 20 11 17 14 3 8 2 12 19 11 20 11 20 16 7 11 17 
+Success ---> Execution Time: 0.163357 seconds
+
+Process For Instance = 14
+1 2 20 1 12 10 7 20 13 20 9 5 17 3 9 7 12 20 18 4 
+Success ---> Execution Time: 0.171042 seconds
+
+Process For Instance = 15
+1 9 20 1 1 8 7 20 13 11 9 4 3 20 10 10 17 19 15 4 
+Success ---> Execution Time: 0.254489 seconds
+
+Process For Instance = 16
+1 7 20 1 20 8 7 20 13 2 9 15 17 11 10 13 18 20 17 4 
+Success ---> Execution Time: 0.208294 seconds
+
+Process For Instance = 17
+1 3 20 1 9 14 7 19 13 1 9 1 11 20 9 18 12 7 20 4 
+Success ---> Execution Time: 0.210272 seconds
+
+Process For Instance = 18
+1 3 1 20 9 20 14 1 8 1 12 20 7 18 12 19 16 8 11 17 
+Success ---> Execution Time: 0.177012 seconds
+
+Process For Instance = 19
+1 7 1 20 2 14 14 1 8 20 12 18 3 11 11 17 7 7 8 17 
+Success ---> Execution Time: 0.212203 seconds
+
+Total Execution Time: 3.95012 seconds
+

@@ -1,0 +1,82 @@
+Process For Instance = 0
+
+Fail ---> Execution Time: 401.693 seconds
+
+Process For Instance = 1
+
+Fail ---> Execution Time: 359.44 seconds
+
+Process For Instance = 2
+
+Fail ---> Execution Time: 307.56 seconds
+
+Process For Instance = 3
+
+Fail ---> Execution Time: 324.301 seconds
+
+Process For Instance = 4
+
+Fail ---> Execution Time: 285.471 seconds
+
+Process For Instance = 5
+
+Fail ---> Execution Time: 298.353 seconds
+
+Process For Instance = 6
+
+Fail ---> Execution Time: 318.324 seconds
+
+Process For Instance = 7
+
+Fail ---> Execution Time: 342.934 seconds
+
+Process For Instance = 8
+
+Fail ---> Execution Time: 365.11 seconds
+
+Process For Instance = 9
+
+Fail ---> Execution Time: 300.103 seconds
+
+Process For Instance = 10
+
+Fail ---> Execution Time: 339.447 seconds
+
+Process For Instance = 11
+
+Fail ---> Execution Time: 321.252 seconds
+
+Process For Instance = 12
+47 67 55 45 44 51 68 16 12 71 1 51 34 33 1 38 26 41 71 54 17 58 69 71 44 54 60 63 1 3 48 49 22 57 31 28 37 3 47 15 40 11 71 66 15 28 46 61 43 1 12 15 71 22 31 39 55 68 71 23 10 63 2 15 64 27 28 54 33 35 48 2 19 7 63 39 7 52 25 12 2 64 71 23 43 43 35 19 57 7 58 9 50 31 6 37 67 60 4 20 
+Success ---> Execution Time: 94.1357 seconds
+
+Process For Instance = 13
+
+Fail ---> Execution Time: 304.529 seconds
+
+Process For Instance = 14
+
+Fail ---> Execution Time: 332.269 seconds
+
+Process For Instance = 15
+
+Fail ---> Execution Time: 340.312 seconds
+
+Process For Instance = 16
+
+Fail ---> Execution Time: 324.908 seconds
+
+Process For Instance = 17
+
+Fail ---> Execution Time: 294.717 seconds
+
+Process For Instance = 18
+
+Fail ---> Execution Time: 302.419 seconds
+
+Process For Instance = 19
+
+Fail ---> Execution Time: 256.569 seconds
+
+Total Execution Time: 6213.85 seconds
+

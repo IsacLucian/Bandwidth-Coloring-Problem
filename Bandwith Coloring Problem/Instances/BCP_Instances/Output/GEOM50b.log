@@ -1,0 +1,82 @@
+Process For Instance = 0
+13 7 23 19 9 14 16 20 5 34 29 35 17 2 35 1 32 10 22 19 35 26 1 32 10 22 10 26 34 1 16 13 8 35 29 18 20 2 8 1 25 5 26 31 31 29 1 22 12 1 
+Success ---> Execution Time: 9.5286 seconds
+
+Process For Instance = 1
+8 20 6 17 1 14 10 8 32 29 34 29 4 19 28 35 4 11 26 6 28 1 8 35 19 26 27 20 1 1 32 14 13 1 34 9 1 34 28 35 8 21 22 28 6 23 22 5 15 35 
+Success ---> Execution Time: 9.35008 seconds
+
+Process For Instance = 2
+13 15 18 35 1 25 14 1 33 5 20 7 17 6 35 9 10 28 33 5 35 1 2 24 26 1 10 26 24 1 32 23 8 17 26 28 20 35 29 1 19 14 7 1 17 29 26 17 35 21 
+Success ---> Execution Time: 8.92109 seconds
+
+Process For Instance = 3
+6 20 1 27 18 6 28 23 15 30 17 29 10 31 28 26 17 9 35 5 33 1 6 18 17 26 35 18 19 2 6 14 1 31 3 9 13 16 10 35 13 22 1 35 5 23 10 25 3 35 
+Success ---> Execution Time: 8.79024 seconds
+
+Process For Instance = 4
+1 20 6 27 1 35 13 24 19 31 11 28 29 28 16 26 11 1 35 26 33 1 2 1 17 25 35 24 1 16 19 14 7 8 20 9 12 17 1 35 6 5 30 23 6 21 27 4 3 35 
+Success ---> Execution Time: 9.16898 seconds
+
+Process For Instance = 5
+6 21 2 17 22 14 25 8 24 29 4 28 10 5 28 15 16 9 4 20 35 1 35 25 23 25 1 19 20 35 31 27 1 19 32 9 13 1 35 35 12 10 29 35 33 22 9 4 3 34 
+Success ---> Execution Time: 8.80818 seconds
+
+Process For Instance = 6
+1 20 25 1 1 21 5 10 4 31 35 27 28 18 15 35 23 1 25 19 28 1 35 35 21 12 11 23 35 23 6 14 6 26 32 9 11 35 1 35 30 5 16 11 7 20 33 30 3 33 
+Success ---> Execution Time: 8.96834 seconds
+
+Process For Instance = 7
+1 10 33 17 1 25 35 9 14 31 22 28 5 30 14 35 25 8 26 35 28 1 1 34 18 16 26 22 21 2 5 16 28 1 33 21 8 35 29 35 12 7 20 14 6 19 24 5 2 34 
+Success ---> Execution Time: 9.11704 seconds
+
+Process For Instance = 8
+1 20 32 3 1 30 11 16 6 15 11 26 28 1 15 35 22 1 25 35 28 1 1 35 21 13 27 23 19 15 35 14 6 35 32 9 11 23 1 35 8 5 9 15 6 20 5 20 3 32 
+Success ---> Execution Time: 8.77033 seconds
+
+Process For Instance = 9
+1 10 20 23 27 13 27 27 33 30 20 28 5 17 14 35 23 1 4 35 28 1 1 35 11 13 2 22 35 11 7 16 28 8 19 21 9 34 1 35 29 9 18 28 22 19 11 5 3 35 
+Success ---> Execution Time: 9.30326 seconds
+
+Process For Instance = 10
+1 26 30 22 35 1 30 12 30 30 23 7 5 18 19 1 22 35 10 1 8 35 35 35 17 11 10 10 35 1 5 20 28 19 24 15 23 28 35 35 27 31 6 12 29 14 2 18 31 1 
+Success ---> Execution Time: 8.89251 seconds
+
+Process For Instance = 11
+1 7 26 35 5 6 26 28 13 14 32 26 5 5 14 13 14 3 23 11 26 35 34 23 4 23 1 22 15 13 35 1 28 20 30 19 8 35 1 35 28 18 11 16 31 19 3 23 1 32 
+Success ---> Execution Time: 9.64926 seconds
+
+Process For Instance = 12
+1 20 22 26 1 23 35 2 31 31 22 27 29 1 16 35 14 1 25 35 28 1 35 1 18 23 35 24 18 17 29 14 6 9 34 9 12 34 28 35 10 6 18 13 6 21 31 4 3 35 
+Success ---> Execution Time: 9.64711 seconds
+
+Process For Instance = 13
+1 10 8 15 1 13 28 34 25 31 20 29 5 20 28 35 15 1 24 35 28 1 35 35 14 25 1 20 5 26 32 16 14 8 34 21 9 27 1 35 10 6 18 35 6 23 1 1 3 35 
+Success ---> Execution Time: 9.68073 seconds
+
+Process For Instance = 14
+1 18 9 9 16 30 15 18 9 31 32 26 5 26 14 1 21 3 31 5 26 35 34 35 15 12 1 22 7 23 35 12 28 35 5 7 10 10 1 35 15 20 25 18 23 19 26 1 1 32 
+Success ---> Execution Time: 8.84995 seconds
+
+Process For Instance = 15
+1 10 5 34 29 27 27 15 35 31 35 29 5 18 14 35 24 1 4 21 28 1 1 22 14 15 14 22 1 2 9 16 28 8 19 21 10 34 1 35 28 9 21 13 24 19 34 6 3 35 
+Success ---> Execution Time: 9.76598 seconds
+
+Process For Instance = 16
+1 7 3 11 33 24 16 10 3 31 4 29 5 32 28 1 25 9 20 22 15 35 34 35 24 35 1 20 23 25 6 27 14 19 2 22 8 2 35 35 17 9 29 15 12 23 32 35 14 1 
+Success ---> Execution Time: 9.68378 seconds
+
+Process For Instance = 17
+11 29 8 23 1 22 29 35 31 35 4 7 7 19 35 35 12 19 17 34 21 1 2 1 3 3 35 20 1 14 30 9 26 10 34 14 31 1 18 1 7 27 27 33 27 16 16 5 24 35 
+Success ---> Execution Time: 9.25296 seconds
+
+Process For Instance = 18
+1 10 32 24 3 6 10 14 35 30 19 29 5 22 14 35 16 9 25 35 28 1 35 35 19 26 1 22 34 15 6 16 28 1 32 21 9 34 28 35 29 8 22 17 9 19 24 27 3 35 
+Success ---> Execution Time: 9.31808 seconds
+
+Process For Instance = 19
+1 20 14 23 10 13 17 26 33 30 11 29 15 7 28 35 11 1 24 21 28 1 35 35 19 24 13 20 34 4 18 14 6 8 34 9 12 34 1 35 29 6 18 27 5 23 4 22 3 35 
+Success ---> Execution Time: 9.22474 seconds
+
+Total Execution Time: 184.693 seconds
+
